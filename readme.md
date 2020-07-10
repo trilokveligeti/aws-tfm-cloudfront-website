@@ -18,10 +18,10 @@ The folder structure looks like this
 +-- _ modules 
 |   +-- custom-module-folder (custom module to something cool)
 |       +-- main.tf
-|       +-- vars.tf
+|       +-- misc.tf
 |       +-- outputs.tf
 +-- _ secrets (store stuff you dont want to checkin)
-|   +-- secret-vars.tf
+|   +-- secret-vars.tfvars
 
 ```
 
